@@ -3,7 +3,7 @@
 The purpose of this repo is to demonstrate a bug related to drawing in render target Viewports.
 
 ## Specs
-Godot 3.2.2
+Godot 3.2.2  
 Windows 10  
 Radeon 7870  
 Ryzen 7 1700X  
