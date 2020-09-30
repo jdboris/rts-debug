@@ -10,7 +10,7 @@ Ryzen 7 1700X
 
 ## Bug
 
-I'm trying to draw shapes in a render target Viewport with clear mode "Never". I'm trying to draw a rectangle once, and a circle every update. The problem is that the rectangle disappears.
+I'm trying to draw shapes in a render target Viewport with clear mode "Never". I'm trying to draw a rectangle once, and a circle every update. The problem is that the rectangle disappears if I draw the circle every update.
 
 ## What I get
 
