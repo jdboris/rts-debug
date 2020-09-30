@@ -9,10 +9,10 @@ It seems that whatever is drawn in Viewport *immediately* after the game starts 
 *EXPECTED (with both defaulted to true)...*  
 ![expected (both defaulted to true)](https://i.imgur.com/PELRr8d.png)
 
-*Actual (will_draw_circle defaulted to true)...*  
-![actual (will_draw_circle defaulted to true)](https://i.imgur.com/eaJGEj2.png)
+*ACTUAL (both defaulted to true)...*  
+![actual (both defaulted to true)](https://i.imgur.com/eaJGEj2.png)
 
-*Actual (will_draw_circle defaulted to false)...*  
+*ACTUAL (will_draw_circle defaulted to false)...*  
 ![actual (will_draw_circle defaulted to false)](https://i.imgur.com/RC6ZwBi.png)
 
 *Note: you can left/right click to set the properties to true for testing*
