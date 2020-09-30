@@ -3,9 +3,9 @@
 The purpose of this repo is to demonstrate a bug related to drawing in render target Viewports.
 
 ## Specs
-Windows 10
-Radeon 7870
-Ryzen 7 1700X
+Windows 10  
+Radeon 7870  
+Ryzen 7 1700X  
 
 ## Bug
 
