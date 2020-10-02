@@ -14,8 +14,8 @@ I'm trying to draw shapes in a render target Viewport with clear mode "Never". I
 
 ## What I get
 
-![drawing both](https://i.imgur.com/eaJGEj2.png)
+![drawing both](https://i.imgur.com/r8qnyka.png)
 
 ## Expected
 
-![drawing both](https://i.imgur.com/PELRr8d.png)
+![drawing both](https://i.imgur.com/7P9EURI.png)
